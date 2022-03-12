@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OwneRempe1
-- 👀 I’m interested in C# and Unity Game Development.
-- 🌱 I’m currently learning C#.
-- 📫 You can reach me on Discord at Owen#5218.
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Python.
+- 📫 You can reach me on Discord at Owenn#1176.
 
 <!---
 OwneRempe1/OwneRempe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
