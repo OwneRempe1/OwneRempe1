@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @OwneRempe1
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
 - 📫 You can reach me on Discord at Owenn#1176.
 
 <!---
