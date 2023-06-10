@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @OwneRempe1
-- 📫 You can reach me on Discord at Owenn#1176.
+- 👋 Hi, I’m Owen
 
 <!---
 OwneRempe1/OwneRempe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
